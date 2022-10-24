@@ -1,2 +1,2 @@
-# Engeto_Academy_projekt1_Text_analyzer
+# Engeto_Academy_project1_Text_analyzer
 Text_analyzer
